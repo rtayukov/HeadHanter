@@ -1,0 +1,6 @@
+C:\Users\Ruslan\Desktop\HeadHanter\Exe2\bin\Debug\Exe2.exe.config
+C:\Users\Ruslan\Desktop\HeadHanter\Exe2\bin\Debug\Exe2.exe
+C:\Users\Ruslan\Desktop\HeadHanter\Exe2\bin\Debug\Exe2.pdb
+C:\Users\Ruslan\Desktop\HeadHanter\Exe2\obj\Debug\Exe2.exe
+C:\Users\Ruslan\Desktop\HeadHanter\Exe2\obj\Debug\Exe2.pdb
+C:\Users\Ruslan\Desktop\HeadHanter\Exe2\obj\Debug\Exe2.csprojResolveAssemblyReference.cache

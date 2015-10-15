@@ -1,0 +1,6 @@
+C:\Users\Ruslan\Desktop\HeadHanter\HeadHanter\bin\Debug\HeadHanter.exe.config
+C:\Users\Ruslan\Desktop\HeadHanter\HeadHanter\bin\Debug\HeadHanter.exe
+C:\Users\Ruslan\Desktop\HeadHanter\HeadHanter\bin\Debug\HeadHanter.pdb
+C:\Users\Ruslan\Desktop\HeadHanter\HeadHanter\obj\Debug\Exe1.csprojResolveAssemblyReference.cache
+C:\Users\Ruslan\Desktop\HeadHanter\HeadHanter\obj\Debug\HeadHanter.exe
+C:\Users\Ruslan\Desktop\HeadHanter\HeadHanter\obj\Debug\HeadHanter.pdb

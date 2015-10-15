@@ -1,0 +1,6 @@
+C:\Users\Ruslan\Desktop\HeadHanter\Exe5\bin\Debug\Exe5.exe.config
+C:\Users\Ruslan\Desktop\HeadHanter\Exe5\bin\Debug\Exe5.exe
+C:\Users\Ruslan\Desktop\HeadHanter\Exe5\bin\Debug\Exe5.pdb
+C:\Users\Ruslan\Desktop\HeadHanter\Exe5\obj\Debug\Exe5.csprojResolveAssemblyReference.cache
+C:\Users\Ruslan\Desktop\HeadHanter\Exe5\obj\Debug\Exe5.exe
+C:\Users\Ruslan\Desktop\HeadHanter\Exe5\obj\Debug\Exe5.pdb

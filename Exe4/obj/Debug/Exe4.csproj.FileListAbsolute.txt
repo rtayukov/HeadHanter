@@ -1,0 +1,6 @@
+C:\Users\Ruslan\Desktop\HeadHanter\Exe4\bin\Debug\Exe4.exe.config
+C:\Users\Ruslan\Desktop\HeadHanter\Exe4\bin\Debug\Exe4.exe
+C:\Users\Ruslan\Desktop\HeadHanter\Exe4\bin\Debug\Exe4.pdb
+C:\Users\Ruslan\Desktop\HeadHanter\Exe4\obj\Debug\Exe4.csprojResolveAssemblyReference.cache
+C:\Users\Ruslan\Desktop\HeadHanter\Exe4\obj\Debug\Exe4.exe
+C:\Users\Ruslan\Desktop\HeadHanter\Exe4\obj\Debug\Exe4.pdb

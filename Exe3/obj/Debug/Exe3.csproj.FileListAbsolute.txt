@@ -1,0 +1,6 @@
+C:\Users\Ruslan\Desktop\HeadHanter\Exe3\bin\Debug\Exe3.exe.config
+C:\Users\Ruslan\Desktop\HeadHanter\Exe3\bin\Debug\Exe3.exe
+C:\Users\Ruslan\Desktop\HeadHanter\Exe3\bin\Debug\Exe3.pdb
+C:\Users\Ruslan\Desktop\HeadHanter\Exe3\obj\Debug\Exe3.exe
+C:\Users\Ruslan\Desktop\HeadHanter\Exe3\obj\Debug\Exe3.pdb
+C:\Users\Ruslan\Desktop\HeadHanter\Exe3\obj\Debug\Exe3.csprojResolveAssemblyReference.cache
