@@ -37,6 +37,17 @@ namespace Exe4
 
         static void Main(string[] args)
         {
+            //BigInteger value = 0;
+            //for (int i = 1; i < 1377+1; i++)
+            //{
+            //    value += (BigInteger)Math.Pow(i, i);
+                
+            //    //Console.WriteLine("i = " + i + " Count = " + value);
+
+            //    //Console.WriteLine("i = " + i + " " + (long)Math.Pow(i, i));
+            //    //Console.ReadKey();
+            //}
+            //value = value % 10000000000;
             int n = 10;
             int max = 1377;
             var value = GetLastDigits(n, max);
